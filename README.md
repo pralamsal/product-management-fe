@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+** NOTE: To be able to view data from the backend, you need to run the backend project first.
+
 ## Available Scripts
 
 In the project directory, you can run:
