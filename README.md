@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-** NOTE: To be able to view data from the backend, you need to run the backend project first.
+## NOTE: To be able to view data from the backend, you need to run the backend project first.
 This is my very first React project (or any kind of js front-end project. It does not look pretty but covers the first three use cases in the task description.
 
 ## Available Scripts
